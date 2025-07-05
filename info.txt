@@ -1,0 +1,14 @@
+"""
+Modules we can use to send SMS messages:
+Twilio
+datetime
+time
+"""
+
+"""
+Steps:
+twilio client setup
+user input
+scheduling logic 
+send SMS message
+"""
